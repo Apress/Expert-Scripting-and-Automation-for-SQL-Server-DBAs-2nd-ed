@@ -1,0 +1,1 @@
+FOR XML PATH('UserSession'), ROOT('Sessions')

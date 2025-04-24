@@ -1,0 +1,1 @@
+Switch-SqlAvailabilityGroup -Path "SQLSERVER:\Sql\SecondaryServer\default\AvailabilityGroups\WideWorldImportersAG"

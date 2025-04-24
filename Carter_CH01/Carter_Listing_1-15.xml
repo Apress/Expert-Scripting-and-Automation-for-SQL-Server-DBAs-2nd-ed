@@ -1,0 +1,6 @@
+<ExecSessions session_id="52" login_name="WIN-J38I01U06D7\Administrator" host_name="WIN-J38I01U06D7" status="running">
+  <ExecRequests command="SELECT" DatabaseName="master" last_wait_type="MEMORY_ALLOCATION_EXT" />
+</ExecSessions>
+<ExecSessions session_id="55" login_name="WIN-J38I01U06D7\Administrator" host_name="WIN-J38I01U06D7" status="running">
+  <ExecRequests command="SELECT" DatabaseName="master" last_wait_type="ASYNC_NETWORK_IO" />
+</ExecSessions>

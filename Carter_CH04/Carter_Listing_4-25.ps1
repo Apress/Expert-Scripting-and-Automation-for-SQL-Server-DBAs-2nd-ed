@@ -1,0 +1,1 @@
+Get-Command -Module sqlserver -Name  '*availability*   | Select-Object -ExpandProperty Name

@@ -1,0 +1,26 @@
+<Sessions>
+  <UserSession SessionID="52">
+    <LoginName>WIN-J38I01U06D7\Administrator</LoginName>
+    <HostName>WIN-J38I01U06D7</HostName>
+    <Status>running</Status>
+    <Request>
+      <Command>SELECT</Command>
+      <Database>
+        <Name>master</Name>
+      </Database>
+      <LastWaitReason>SOS_WORK_DISPATCHER</LastWaitReason>
+    </Request>
+  </UserSession>
+  <UserSession SessionID="55">
+    <LoginName>WIN-J38I01U06D7\Administrator</LoginName>
+    <HostName>WIN-J38I01U06D7</HostName>
+    <Status>running</Status>
+    <Request>
+      <Command>SELECT</Command>
+      <Database>
+        <Name>master</Name>
+      </Database>
+      <LastWaitReason>ASYNC_NETWORK_IO</LastWaitReason>
+    </Request>
+  </UserSession>
+</Sessions>

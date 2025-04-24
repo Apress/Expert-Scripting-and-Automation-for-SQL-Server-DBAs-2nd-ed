@@ -1,0 +1,10 @@
+$Params = @{
+    ServerInstance = "localhost"
+    Query               = "SELECT name FROM sys.databases"
+}
+
+$Databases = Invoke-Sqlcmd @Params
+
+foreach ($Database in $Databases) {
+    Write-Host $Database.name
+}

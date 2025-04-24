@@ -1,0 +1,1 @@
+Invoke-SqlCmd -ServerInstance localhost -Query "SELECT name FROM sys.databases"

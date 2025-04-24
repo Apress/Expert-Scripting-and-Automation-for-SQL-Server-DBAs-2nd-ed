@@ -1,0 +1,1 @@
+C:\Scripts\WindowsConfig.ps1

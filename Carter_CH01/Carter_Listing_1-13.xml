@@ -1,0 +1,20 @@
+<Sessions>
+  <Session>
+    <session_id>52</session_id>
+    <login_name>WIN-J38I01U06D7\Administrator</login_name>
+    <host_name>WIN-J38I01U06D7</host_name>
+    <status>running</status>
+    <command>SELECT</command>
+    <DatabaseName>master</DatabaseName>
+    <last_wait_type>MEMORY_ALLOCATION_EXT</last_wait_type>
+  </Session>
+  <Session>
+    <session_id>55</session_id>
+    <login_name>WIN-J38I01U06D7\Administrator</login_name>
+    <host_name>WIN-J38I01U06D7</host_name>
+    <status>running</status>
+    <command>SELECT</command>
+    <DatabaseName>master</DatabaseName>
+    <last_wait_type>ASYNC_NETWORK_IO</last_wait_type>
+  </Session>
+</Sessions>

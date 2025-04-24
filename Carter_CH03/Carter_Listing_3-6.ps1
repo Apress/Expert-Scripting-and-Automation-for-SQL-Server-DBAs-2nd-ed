@@ -1,0 +1,1 @@
+Start-DscConfiguration -Path 'C:\Scripts\WindowsConfig' -Verbose -Wait
