@@ -1,0 +1,1 @@
+Get-Service -displayname *SCRIPTING* | Select-Object name, displayname, status

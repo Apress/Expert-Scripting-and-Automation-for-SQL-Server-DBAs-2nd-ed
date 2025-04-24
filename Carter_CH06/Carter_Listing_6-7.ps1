@@ -1,0 +1,1 @@
+.\setup.exe /CONFIGURATIONFILE="c:\SQL2012\Configuration1.ini"

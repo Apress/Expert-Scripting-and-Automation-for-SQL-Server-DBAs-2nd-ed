@@ -1,0 +1,1 @@
+Invoke-DbaQuery -SqlInstance localhost -Query "SELECT 1/0" –EnableException

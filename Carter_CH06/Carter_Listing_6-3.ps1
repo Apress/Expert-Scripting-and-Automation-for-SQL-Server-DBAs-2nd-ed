@@ -1,0 +1,1 @@
+Invoke-Sqlcmd –serverinstance "localhost\SCRIPTING  " -query -TrustServerCertificate  "SELECT @@SERVERNAME" 

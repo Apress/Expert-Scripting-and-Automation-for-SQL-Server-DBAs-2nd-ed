@@ -1,0 +1,1 @@
+"localhost", "localhost\poshscripting" | Invoke-DbaQuery -Query "SELECT name FROM sys.databases"

@@ -1,0 +1,1 @@
+Add-DbaServerRoleMember -SqlInstance localhost -ServerRole dbCreator -Login Adam

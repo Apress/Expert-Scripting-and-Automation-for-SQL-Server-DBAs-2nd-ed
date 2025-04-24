@@ -1,0 +1,1 @@
+New-DbaAgentJob -SqlInstance localhost -Job DbaMaintenance -OwnerLogin sa

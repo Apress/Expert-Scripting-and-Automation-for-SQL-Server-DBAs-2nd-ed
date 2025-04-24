@@ -1,0 +1,1 @@
+Get-DbaAgentJobHistory -SqlInstance localhost | Where-Object status -eq "Failed" | Select-Object -ExpandProperty Message
