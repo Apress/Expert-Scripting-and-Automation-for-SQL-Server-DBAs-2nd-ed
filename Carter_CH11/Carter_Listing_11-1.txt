@@ -1,0 +1,1 @@
+"BACKUP DATABASE " +  @[$Project::DatabaseName] + " TO DISK = 'C:\\Backups\\" + @[$Project::DatabaseName] + ".bak'"

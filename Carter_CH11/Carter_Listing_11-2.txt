@@ -1,0 +1,1 @@
+"RESTORE DATABASE " +  @[$Project::DatabaseName] + " FROM DISK = '\\\\ESPROD2\\backups\\" + @[$Project::DatabaseName] + ".bak' WITH REPLACE; ALTER DATABASE " + @[$Project::DatabaseName] + " SET SINGLE_USER WITH ROLLBACK IMMEDIATE;"
